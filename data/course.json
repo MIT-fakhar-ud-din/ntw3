@@ -1,0 +1,39 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Graduate",
+    "Non Credit"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "new-test-website-3"
+  },
+  "course_image": {
+    "content": "",
+    "website": "new-test-website-3"
+  },
+  "course_title": "Title test repeat",
+  "course_description": "abc",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "new-test-website-3"
+  },
+  "learning_resource_types": [
+    "Competition Videos"
+  ],
+  "site_uid": "a38670a6-032a-4388-b1b2-6df4213e38c0",
+  "site_short_id": "ntw3"
+}
